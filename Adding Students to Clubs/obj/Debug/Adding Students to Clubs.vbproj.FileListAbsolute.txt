@@ -1,0 +1,12 @@
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\bin\Debug\Adding Students to Clubs.exe.config
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\bin\Debug\Adding Students to Clubs.exe
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\bin\Debug\Adding Students to Clubs.pdb
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\bin\Debug\Adding Students to Clubs.xml
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\Adding Students to Clubs.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\Adding Students to Clubs.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\Adding Students to Clubs.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\Adding Students to Clubs.exe
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\Adding Students to Clubs.xml
+C:\Users\nicho\Desktop\Visual BASICS\Adding Students to Clubs\Adding Students to Clubs\obj\Debug\Adding Students to Clubs.pdb
